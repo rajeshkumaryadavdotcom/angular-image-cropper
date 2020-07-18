@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "image-cropper-angular"
+    }
+  },
+  "defaultProject": "image-cropper-angular",
+  "cli": {
+    "analytics": false
+  }
 }
